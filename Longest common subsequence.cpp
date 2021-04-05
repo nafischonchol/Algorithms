@@ -35,7 +35,6 @@ int max(int a,int b)
     else
         return b;
 }
-
 int getLCSLength(string s1,string s2)
 {
     s1="0"+s1;
